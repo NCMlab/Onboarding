@@ -1,16 +1,16 @@
 # Weekly meetings
 
-It's important to me (Kirstie) that no one feels left out in the cold, or abandoned to struggle during their time in the lab.
+It's important to me (Stef) that no one feels left out in the cold, or abandoned to struggle during their time in the lab.
 
-It may not always be possible but I'd like us to meet once per week (ideally for 30 minutes, but if you need longer then I'm sure we can manage that!) to touch base and keep track of where you are.
+It may not always be possible but I'd like us to meet one-on-one once every other week (ideally for 30 minutes, but if you need longer then I'm sure we can manage that!) to touch base and keep track of where you are.
 
-I've developed a template for making sure that we cover certain topics every week. This document will talk you through how you set up and prepare for your weekly meeting, along with my motivation for asking these questions.
+I've developed a template for making sure that we cover certain topics every meeting. This document will talk you through how you set up and prepare for your meeting, along with my motivation for asking these questions.
 
 Importantly, ***I hope these meetings are useful for us both***. Please let me know if there are any changes that you'd like to make!
 
 ## Building your meetings template
 
-Create a file in the [Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement) repository called `Weekly-Meetings.md` inside a folder with your name (don't put a space, use a hypen to separate your first and last name(s)).
+Create a file in the [NCM Lab Project Management](https://github.com/NCMlab/WhitakerLabProjectManagement) repository called `Weekly-Meetings.md` inside a folder with your name (don't put a space, use a hypen to separate your first and last name(s)).
 
 You can see an example for Isla Staden here: https://github.com/WhitakerLab/WhitakerLabProjectManagement/blob/master/Isla-Staden/Weekly-Meetings.md
 
@@ -44,9 +44,9 @@ Replace this text with a one/two sentence description of who helped you this wee
 * It's ok if your list is only one bullet point long!
 * Try to estimate how long each task will take.
 
-#### Where do you need help from Kirstie?
+#### Where do you need help from Stef?
 
-* Replace this text with a bullet point list of what you need help from Kirstie on.
+* Replace this text with a bullet point list of what you need help from Stef on.
 * It's ok if your list is only one bullet point long!
 * Try to estimate how long each task will take.
 
@@ -58,7 +58,7 @@ This space is yours to add to as needed.
 
 ## Preparing for your weekly meeting
 
-Before you meet with Kirstie each week, please copy the template within your `Weekly-Meetings.md` file and fill it in.
+Before you meet with Stef each week, please copy the template within your `Weekly-Meetings.md` file and fill it in.
 
 We'll keep all meetings in the same file so you can also add a "table of contents" at the top of the file to make navigating it a little easier. Please do not overwrite previous meetings! I'd like for us both to be able to look back at your responses over the course of your time in the lab and see how far you've come :grinning:. Please keep the most recent meetings at the top of the file and separate each meeting with a horizonal line (`---`).
 
