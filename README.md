@@ -19,26 +19,26 @@ In this repository we're going to work through some tutorials, blogging exercise
 ## Your first day
 
 * Read the NCM Lab [code of conduct](https://github.com/NCMlab/Onboarding/blob/master/CODE_OF_CONDUCT.md). Chat with Stef if you have any questions about lab norms or would like to add or change anything in the code of conduct.
-[//]* Ask Kirstie to invite you to join the Alan Turing [slack channel](https://alan-turing-institute.slack.com).
+
 * Set up the weekly meetings file by following the guidelines in the [Setting-up-your-weekly-meetings.md](https://github.com/NCMlab/Onboarding/blob/master/Setting-up-your-weekly-meetings.md) file.
 
 ## Lab meetings
 
-The Whitaker Lab meetings are approximately weekly from 3pm to 4pm on Thursdays.
-Members of the Whitaker Lab are expected to join if they are able and to contribute to the agenda in advance of the meeting *whether they are able to attend or not*.
+The NCM Lab meetings are approximately every other week and the time needs to be set (as of June 17, 2019).
+Members of the NCM Lab are expected to join if they are able and to contribute to the agenda in advance of the meeting *whether they are able to attend or not*.
 
 * Please read the [lab meetings](Lab-meetings.md) guide for more details.
-* You can find the specific dates of the meetings in the [Whitaker lab's google calendar](https://calendar.google.com/calendar/embed?src=7nar31c6ni4esif8fn1881kgds%40group.calendar.google.com).
+* You can find the specific dates of the meetings in the [NCM lab's google calendar](The calendar needs to be set up!).
 
 ## Blogging exercises
 
-One of the most useful ways for me (Kirstie) to follow along with your progress is to read blog post summaries of what you've been working on. It's also a great way to share our work with others!
+One of the most useful ways for me (Stef) to follow along with your progress is to read blog post summaries of what you've been working on. It's also a great way to share our work with others!
 
-We'll set a schedule for each blog, but please plan on working through all four within the first few months of your time at the Turing.
+We'll set a schedule for each blog, but please plan on working through all four within the first few months of your time at the Neural Cognitive Mapping Lab.
 
 0. [Introducing](BLOGGING_EXERCISES/00-Introducing.md)
 1. [Meet 3 people at the Turing Institute](BLOGGING_EXERCISES/01-MeetThreePeople.md)
-2. [Blog about some code](BLOGGING_EXERCISES/02-BlogAboutSomeCode.md)
+[comment]: <> 2. [Blog about some code](BLOGGING_EXERCISES/02-BlogAboutSomeCode.md)
 3. [Contribute to an open source project](BLOGGING_EXERCISES/03-OpenSourceContribution.md)
 4. [Goal setting](BLOGGING_EXERCISES/04-GoalSetting.md)
 
