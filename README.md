@@ -49,3 +49,6 @@ It's a beautiful description of the frustration and wonder of conducting reasear
 Don't forget, whenever things are hard, ***keep pushing***.
 
 ![](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.012.jpg)
+
+
+The material in Jason Steffener's Lab Guide is partially derived from "Whitaker Lab Project Management" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0. Dr. Steffener's Lab Guide is licensed under CC BY 4.0 by [Jason Steffener].
